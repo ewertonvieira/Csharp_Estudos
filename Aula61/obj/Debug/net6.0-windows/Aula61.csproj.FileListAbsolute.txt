@@ -1,0 +1,17 @@
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.Form1.resources
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.csproj.GenerateResource.cache
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.AssemblyInfoInputs.cache
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.AssemblyInfo.cs
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.csproj.CoreCompileInputs.cache
+E:\Repositorio\Aula61\bin\Debug\net6.0-windows\Aula61.exe
+E:\Repositorio\Aula61\bin\Debug\net6.0-windows\Aula61.deps.json
+E:\Repositorio\Aula61\bin\Debug\net6.0-windows\Aula61.runtimeconfig.json
+E:\Repositorio\Aula61\bin\Debug\net6.0-windows\Aula61.dll
+E:\Repositorio\Aula61\bin\Debug\net6.0-windows\Aula61.pdb
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.dll
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\refint\Aula61.dll
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.pdb
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.genruntimeconfig.cache
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\ref\Aula61.dll
+E:\Repositorio\Aula61\obj\Debug\net6.0-windows\Aula61.Properties.Resources.resources

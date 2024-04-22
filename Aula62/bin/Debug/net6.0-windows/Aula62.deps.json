@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula62/1.0.0": {
+        "runtime": {
+          "Aula62.dll": {}
+        },
+        "resources": {
+          "pt-BR/Aula62.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula62/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

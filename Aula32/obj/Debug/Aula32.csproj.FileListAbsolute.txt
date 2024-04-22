@@ -1,0 +1,7 @@
+E:\Repositorio\Aula32\bin\Debug\Aula32.exe.config
+E:\Repositorio\Aula32\bin\Debug\Aula32.exe
+E:\Repositorio\Aula32\bin\Debug\Aula32.pdb
+E:\Repositorio\Aula32\obj\Debug\Aula32.csproj.AssemblyReference.cache
+E:\Repositorio\Aula32\obj\Debug\Aula32.csproj.CoreCompileInputs.cache
+E:\Repositorio\Aula32\obj\Debug\Aula32.exe
+E:\Repositorio\Aula32\obj\Debug\Aula32.pdb

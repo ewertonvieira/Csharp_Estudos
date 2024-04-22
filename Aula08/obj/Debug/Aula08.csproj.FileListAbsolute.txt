@@ -1,0 +1,7 @@
+E:\Repositorio\Aula08\obj\Debug\Aula08.csproj.AssemblyReference.cache
+E:\Repositorio\Aula08\obj\Debug\Aula08.csproj.CoreCompileInputs.cache
+E:\Repositorio\Aula08\bin\Debug\Aula08.exe.config
+E:\Repositorio\Aula08\bin\Debug\Aula08.exe
+E:\Repositorio\Aula08\bin\Debug\Aula08.pdb
+E:\Repositorio\Aula08\obj\Debug\Aula08.exe
+E:\Repositorio\Aula08\obj\Debug\Aula08.pdb

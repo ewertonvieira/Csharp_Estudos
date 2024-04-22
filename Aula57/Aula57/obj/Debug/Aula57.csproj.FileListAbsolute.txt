@@ -1,0 +1,7 @@
+E:\Repositorio\Aula57\Aula57\bin\Debug\Aula57.exe.config
+E:\Repositorio\Aula57\Aula57\bin\Debug\Aula57.exe
+E:\Repositorio\Aula57\Aula57\bin\Debug\Aula57.pdb
+E:\Repositorio\Aula57\Aula57\obj\Debug\Aula57.csproj.AssemblyReference.cache
+E:\Repositorio\Aula57\Aula57\obj\Debug\Aula57.csproj.CoreCompileInputs.cache
+E:\Repositorio\Aula57\Aula57\obj\Debug\Aula57.exe
+E:\Repositorio\Aula57\Aula57\obj\Debug\Aula57.pdb

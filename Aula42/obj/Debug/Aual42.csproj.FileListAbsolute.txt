@@ -1,0 +1,7 @@
+E:\Repositorio\Aual42\bin\Debug\Aual42.exe.config
+E:\Repositorio\Aual42\bin\Debug\Aual42.exe
+E:\Repositorio\Aual42\bin\Debug\Aual42.pdb
+E:\Repositorio\Aual42\obj\Debug\Aual42.csproj.AssemblyReference.cache
+E:\Repositorio\Aual42\obj\Debug\Aual42.csproj.CoreCompileInputs.cache
+E:\Repositorio\Aual42\obj\Debug\Aual42.exe
+E:\Repositorio\Aual42\obj\Debug\Aual42.pdb

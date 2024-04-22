@@ -1,0 +1,14 @@
+E:\Repositorio\Aula56\Aula56\bin\Debug\net6.0\Aula56.exe
+E:\Repositorio\Aula56\Aula56\bin\Debug\net6.0\Aula56.deps.json
+E:\Repositorio\Aula56\Aula56\bin\Debug\net6.0\Aula56.runtimeconfig.json
+E:\Repositorio\Aula56\Aula56\bin\Debug\net6.0\Aula56.dll
+E:\Repositorio\Aula56\Aula56\bin\Debug\net6.0\Aula56.pdb
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\Aula56.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\Aula56.AssemblyInfoInputs.cache
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\Aula56.AssemblyInfo.cs
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\Aula56.csproj.CoreCompileInputs.cache
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\Aula56.dll
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\refint\Aula56.dll
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\Aula56.pdb
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\Aula56.genruntimeconfig.cache
+E:\Repositorio\Aula56\Aula56\obj\Debug\net6.0\ref\Aula56.dll

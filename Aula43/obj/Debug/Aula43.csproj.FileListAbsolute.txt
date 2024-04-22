@@ -1,0 +1,7 @@
+E:\Repositorio\Aula43\bin\Debug\Aula43.exe.config
+E:\Repositorio\Aula43\bin\Debug\Aula43.exe
+E:\Repositorio\Aula43\bin\Debug\Aula43.pdb
+E:\Repositorio\Aula43\obj\Debug\Aula43.csproj.AssemblyReference.cache
+E:\Repositorio\Aula43\obj\Debug\Aula43.csproj.CoreCompileInputs.cache
+E:\Repositorio\Aula43\obj\Debug\Aula43.exe
+E:\Repositorio\Aula43\obj\Debug\Aula43.pdb
